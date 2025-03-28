@@ -3,7 +3,7 @@ Olá :-) <BR>
 Eu me chamo <BR>
 **Flaris Roland Feller** <BR>
 Um homem de família <BR>
-![family.jpg](/home/flarisf/family.jpg) <BR>
+![family.jpg](family.jpg) <BR>
 Apaixonado por tecnologia <BR>
 Mestre em Ciência da Computação - BD e Big Data <BR>
 MBA em Gerenciamento de Projetos <BR>
